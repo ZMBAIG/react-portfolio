@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.febb0c76.css",
+    "main.js": "/react-portfolio/static/js/main.d18bca37.js",
+    "static/media/wallpaper-01.jpg": "/react-portfolio/static/media/wallpaper-01.767a7fd812f8e795f7a1.jpg",
+    "static/media/cube-logo.png": "/react-portfolio/static/media/cube-logo.878f049afded91a8696f.png",
+    "static/media/Superpy.jpg": "/react-portfolio/static/media/Superpy.7c9e5f22a6bf36716ff0.jpg",
+    "static/media/FilmSearch.jpg": "/react-portfolio/static/media/FilmSearch.303a3829e4dfcc216fd1.jpg",
+    "static/media/StudentDashboard.jpg": "/react-portfolio/static/media/StudentDashboard.2bb9b284be76d6ec84a7.jpg",
+    "static/media/Betsyshop.jpg": "/react-portfolio/static/media/Betsyshop.979a0769e2956a2ffc73.jpg",
+    "static/media/ToDoList.jpg": "/react-portfolio/static/media/ToDoList.c420de876aa91910f27e.jpg",
+    "static/media/Zafar-Resume-FSD-2022-23.pdf": "/react-portfolio/static/media/Zafar-Resume-FSD-2022-23.a3203aead305a77039bf.pdf",
+    "static/media/flask.png": "/react-portfolio/static/media/flask.88d11b2debf9c6d6dc23.png",
+    "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/sass.png": "/react-portfolio/static/media/sass.bb8078e20250a65b8e8a.png",
+    "static/media/github.png": "/react-portfolio/static/media/github.ee796ad088de6b7191eb.png",
+    "static/media/html.png": "/react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/python.png": "/react-portfolio/static/media/python.532b43188ecbf86cdcbd.png",
+    "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.febb0c76.css.map": "/react-portfolio/static/css/main.febb0c76.css.map",
+    "main.d18bca37.js.map": "/react-portfolio/static/js/main.d18bca37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.febb0c76.css",
+    "static/js/main.d18bca37.js"
+  ]
+}
